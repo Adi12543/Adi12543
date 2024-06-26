@@ -1,7 +1,4 @@
 # 💫 About Me:
--  Specialized in Front-end development
--  I’m currently working on [BooksForAll](https://github.com/Adi12543/bookstore)<br> 
--  I’m currently learning Backend Development<br>
 -  Let's collab and make interesting projects<br>
 # 💻 Tech Stack:
 <table align="center">
