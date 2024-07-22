@@ -8,7 +8,7 @@
       <br>c
     </td>
    <td align="center" width="96">
-        <img src="https://images.app.goo.gl/ms46BXjL2woYx9Bq6" width="48" height="48" alt="WordPress" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="48" height="48" alt="WordPress" />
       <br>AWS 
     </td>
      <td align="center" width="96">
