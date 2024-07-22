@@ -1,5 +1,6 @@
 # 💫 About Me:
--  Let's collab and make interesting projects<br>
+Computer Science Student (Batch of 2025) <br>
+Let's collab and make interesting projects<br>
 # 💻 Tech Stack:
 <table align="center">
   <tr>
