@@ -12,7 +12,7 @@
       <br>AWS 
     </td>
      <td align="center" width="96">
-        <img src="https://images.app.goo.gl/6AjuGsLe7txQw7N56" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -31,7 +31,25 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    </tr>            
+    </tr>  
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" width="48" height="48" alt="bootstrap" />
+      <br>Jenkins
+    </td>
+       <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="48" height="48" alt="bootstrap" />
+      <br>Linux
+    </td>
+       <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="48" height="48" alt="bootstrap" />
+      <br>Git
+    </td>
+       <td align="center"  width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" width="48" height="48" alt="bootstrap" />
+      <br>Ansible
+    </td>
+  </tr>
   </table>
 
 
