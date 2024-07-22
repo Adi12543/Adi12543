@@ -23,14 +23,8 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
+   
+    
     </tr>  
   <tr>
     <td align="center"  width="96">
@@ -48,6 +42,10 @@
        <td align="center"  width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" width="48" height="48" alt="bootstrap" />
       <br>Ansible
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
   </tr>
   </table>
