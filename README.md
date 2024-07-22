@@ -2,7 +2,9 @@
 Computer Science Student (Batch of 2025) <br>
 Let's collab and make interesting projects<br>
 # 💻 Tech Stack:
+
 <table align="center">
+  
   <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
@@ -24,8 +26,6 @@ Let's collab and make interesting projects<br>
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-   
-    
     </tr>  
   <tr>
     <td align="center"  width="96">
