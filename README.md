@@ -8,12 +8,12 @@
       <br>c
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="WordPress" />
-      <br>python
+        <img src="https://images.app.goo.gl/ms46BXjL2woYx9Bq6" width="48" height="48" alt="WordPress" />
+      <br>AWS 
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://images.app.goo.gl/6AjuGsLe7txQw7N56" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
